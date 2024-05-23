@@ -77,7 +77,19 @@
     {
       "nombre": "Daniela Herrera G",
       "animal": "Bear"
-    }
+    },
 
+    {
+      "nombre": "Chuy De Anda",
+      "animal": "Perezoso"
+    },
+    {
+      "nombre": "Yaír",
+      "animal": "Dolphin"
+    },
+    {
+      "nombre": "AlejandroGE",
+      "animal": "Crocodile"
+    }
   ]
 }
