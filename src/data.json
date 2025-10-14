@@ -136,6 +136,10 @@
     {
       "nombre": "JustinRdz",
       "animal": "Turtle"
+    },
+    {
+      "nombre": "test",
+      "animal": "cat"
     }
   ]
 }
